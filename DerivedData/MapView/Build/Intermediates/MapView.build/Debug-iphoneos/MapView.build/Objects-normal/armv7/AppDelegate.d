@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/newsuzukihiromasa/Desktop/MapView/MapView/AppDelegate.m \
-  /Users/newsuzukihiromasa/Desktop/MapView/MapView/AppDelegate.h \
-  /Users/newsuzukihiromasa/Desktop/MapView/MapView/ViewController.h
+  /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.m \
+  /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.h \
+  /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/ViewController.h

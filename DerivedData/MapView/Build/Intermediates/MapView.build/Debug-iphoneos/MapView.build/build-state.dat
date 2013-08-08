@@ -2,24 +2,25 @@ TMapView
 v5
 r1
 cCheck dependencies
+cProcessInfoPlistFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Info.plist MapView/MapView-Info.plist
 cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/ResourceRules.plist
-cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Info.plist MapView/MapView-Info.plist
-cProcessPCH /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-akgmxskdnlvlewgsvkivrgghexbd/MapView-Prefix.pch.pth MapView/MapView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/MapView/MapView/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/Desktop/MapView/MapView/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/Desktop/MapView/MapView/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView normal armv7
-cGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView
-cCopyStringsFile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/en.lproj/InfoPlist.strings MapView/en.lproj/InfoPlist.strings
-cCopyPNGFile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default.png MapView/Default.png
-cCopyPNGFile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default@2x.png MapView/Default@2x.png
-cCopyPNGFile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default-568h@2x.png MapView/Default-568h@2x.png
-cCompileXIB /Users/newsuzukihiromasa/Desktop/MapView/MapView/en.lproj/ViewController.xib
-cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision
-cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision
-cTouch /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
-cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent
-cCodeSign /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
+cProcessPCH /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch.pth MapView/MapView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/NewClass.o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/NewClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView normal armv7
+cGenerateDSYMFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView
+cCopyPNGFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default.png MapView/Default.png
+cCopyStringsFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/en.lproj/InfoPlist.strings MapView/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default@2x.png MapView/Default@2x.png
+cCopyPNGFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default-568h@2x.png MapView/Default-568h@2x.png
+cCompileXIB /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/en.lproj/ViewController.xib
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision
+cTouch /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent
+cCodeSign /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
 c0000000051BC19820000000000000110
@@ -144,10 +145,15 @@ N/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Deb
 t2
 s0
 
+N/Users/newsuzukihiromasa/Desktop/MapView/MapView/AppDelegate.h
+c00000000000000000000000000000000
+t2
+s0
+
 N/Users/newsuzukihiromasa/Desktop/MapView/MapView/AppDelegate.m
-c00000000520367150000000000000909
-t1375954709
-s2313
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/newsuzukihiromasa/Desktop/MapView/MapView/Default-568h@2x.png
 c0000000050262AB100000000000048A2
@@ -172,10 +178,15 @@ i<Availability.h>
 i<UIKit/UIKit.h>
 i<Foundation/Foundation.h>
 
+N/Users/newsuzukihiromasa/Desktop/MapView/MapView/ViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
 N/Users/newsuzukihiromasa/Desktop/MapView/MapView/ViewController.m
-c00000000520368CC00000000000003E0
-t1375955148
-s992
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/newsuzukihiromasa/Desktop/MapView/MapView/en.lproj/InfoPlist.strings
 c0000000052036715000000000000002D
@@ -188,14 +199,144 @@ t1375955438
 s21545
 
 N/Users/newsuzukihiromasa/Desktop/MapView/MapView/main.m
-c0000000052036715000000000000015A
-t1375954709
-s346
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
 c0000000051DBC2130000000000001D36
 t1373356563
 s7478
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent
+t1375955439
+s412
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.o
+t1375955438
+s92996
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/MapView.LinkFileList
+c0000000052036EFD00000000000002BD
+t1375956733
+s701
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/NewClass.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.o
+t1375955438
+s74592
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.o
+t1375955438
+s3392
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch.pth
+t2
+s0
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
+t1375955439
+s408
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM
+t1375955438
+s102
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default-568h@2x.png
+t1375955439
+s7014
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default.png
+t1375955438
+s3688
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default@2x.png
+t1375955439
+s6316
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Info.plist
+t1375955438
+s1036
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView
+t1375955439
+s32992
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/PkgInfo
+t1375955438
+s8
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/ResourceRules.plist
+t1375955438
+s485
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision
+t1375955439
+s7478
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/en.lproj/InfoPlist.strings
+t1375955438
+s42
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/en.lproj/ViewController.nib
+t1375955439
+s2584
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.m
+c00000000520367150000000000000909
+t1375954709
+s2313
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/MapView-Prefix.pch
+c0000000052036715000000000000013D
+t1375954709
+s317
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/NewClass.m
+c0000000052036CE600000000000000ED
+t1375956198
+s237
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/ViewController.m
+c0000000052036EFD0000000000000648
+t1375956733
+s1608
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/en.lproj/InfoPlist.strings
+c0000000052036715000000000000002D
+t1375954709
+s45
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/en.lproj/ViewController.xib
+c00000000520369EE0000000000005429
+t1375955438
+s21545
+
+N/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/main.m
+c0000000052036715000000000000015A
+t1375954709
+s346
 
 NMapView/MapView-Info.plist
 c00000000520367150000000000000490
@@ -211,9 +352,21 @@ r0
 CBuild AST from /Users/newsuzukihiromasa/Desktop/MapView/MapView/main.m
 r0
 
+CBuild AST from /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/NewClass.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/ViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/main.m
+r0
+
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0da82f6ea1b3b741^bfbb496ea1b3b741^---0#1#0#--18"Check dependencies36"0815ED86-8D91-4F5C-8AB4-24B1FF5E91D2-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfe26387da6b3b741^92934d7da6b3b741^---0#1#0#--18"Check dependencies36"C62C6B1E-0FD1-4303-888D-D60579603AF8-
 
 CCodeSign /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
 s397648239.307770
@@ -222,6 +375,14 @@ r1
 xCodeSign
 x/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CodeSign DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.appe7e34e6fa1b3b741^28bb956fa1b3b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/0000000000000000^917"CodeSign DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 8e72a3bdb14b5665b8d51cbcbab716ec47054420 --resource-rules=/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/ResourceRules.plist --entitlements /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app36"DAA0727F-807E-49BB-AE99-253C2C197128-
+
+CCodeSign /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
+s397649534.026351
+e397649534.305257
+r1
+xCodeSign
+x/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CodeSign DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.appb1dc067ea6b3b741^10254e7ea6b3b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/0000000000000000^989"CodeSign DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app    cd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 8e72a3bdb14b5665b8d51cbcbab716ec47054420 --resource-rules=/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/ResourceRules.plist --entitlements /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app36"ADDB4276-AA24-4117-BFC4-C8B7F219072E-
 
 CCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/Desktop/MapView/MapView/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s397648238.699866
@@ -236,6 +397,32 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/newsuzukihiromasa/Desktop/MapView/MapView/AppDelegate.me55fb36ea1b3b741^9cc1cf6ea1b3b741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/MapView/AppDelegate.m0000000000000000^3690"CompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.o MapView/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-akgmxskdnlvlewgsvkivrgghexbd/MapView-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/MapView/MapView/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.o36"059CDDDB-364F-4D4E-94F9-AC35FD8ABF01-
 
+CCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397649533.739752
+e397649533.874775
+r1
+xCompileC
+xDerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.o
+x/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.m5ab7bd7da6b3b741^e1efdf7da6b3b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.m0000000000000000^3942"CompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.o MapView/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-generated-files.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-own-target-headers.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-project-headers.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources -F/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.dia -c /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.m -o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/AppDelegate.o36"FBD6C949-A2BB-4360-A2F0-ED56273106B6-
+
+CCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/NewClass.o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/NewClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397649533.740501
+e397649533.803522
+r1
+xCompileC
+xDerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/NewClass.o
+x/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/NewClass.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/NewClass.mcccfbd7da6b3b741^4cc2cd7da6b3b741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/NewClass.m0000000000000000^3924"CompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/NewClass.o MapView/NewClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-generated-files.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-own-target-headers.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-project-headers.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources -F/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/NewClass.d --serialize-diagnostics /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/NewClass.dia -c /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/NewClass.m -o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/NewClass.o36"1DE50ECA-49D8-48CA-BA12-C3D7C7313017-
+
 CCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/Desktop/MapView/MapView/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s397648238.699887
 e397648238.802820
@@ -248,6 +435,19 @@ xarmv7
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/newsuzukihiromasa/Desktop/MapView/MapView/ViewController.m205eb36ea1b3b741^9084cd6ea1b3b741^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/MapView/ViewController.m0000000000000000^3708"CompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.o MapView/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-akgmxskdnlvlewgsvkivrgghexbd/MapView-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.dia -c /Users/newsuzukihiromasa/Desktop/MapView/MapView/ViewController.m -o /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.o36"E1AE93BE-517F-452C-8D1B-44A982BC1096-
+
+CCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397649533.739755
+e397649533.878844
+r1
+xCompileC
+xDerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.o
+x/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/ViewController.m1c97bd7da6b3b741^dbfbe07da6b3b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/ViewController.m0000000000000000^3960"CompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.o MapView/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-generated-files.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-own-target-headers.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-project-headers.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources -F/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.dia -c /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/ViewController.m -o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/ViewController.o36"E7273898-F3A9-43D9-B4DD-BF3EAB24CFBF-
 
 CCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/MapView/MapView/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s397648238.699836
@@ -262,6 +462,19 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/newsuzukihiromasa/Desktop/MapView/MapView/main.m404fb36ea1b3b741^a512be6ea1b3b741^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/MapView/main.m0000000000000000^3648"CompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.o MapView/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-akgmxskdnlvlewgsvkivrgghexbd/MapView-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.dia -c /Users/newsuzukihiromasa/Desktop/MapView/MapView/main.m -o /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.o36"5A5EEB78-94CF-401A-90E5-B443E3FD3099-
 
+CCompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397649533.739808
+e397649533.808098
+r1
+xCompileC
+xDerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.o
+x/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/main.m2acabd7da6b3b741^b9dece7da6b3b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/main.m0000000000000000^3900"CompileC DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.o MapView/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-generated-files.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-own-target-headers.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-project-headers.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources -F/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.dia -c /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/main.m -o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/main.o36"330406BA-0219-410B-892A-470B711BEBEF-
+
 CCompileXIB /Users/newsuzukihiromasa/Desktop/MapView/MapView/en.lproj/ViewController.xib
 s397648238.908996
 e397648239.249477
@@ -269,6 +482,9 @@ r1
 xCompileXIB
 x/Users/newsuzukihiromasa/Desktop/MapView/MapView/en.lproj/ViewController.xib
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compiling /Users/newsuzukihiromasa/Desktop/MapView/MapView/en.lproj/ViewController.xibe8dde86ea1b3b741^d7f93f6fa1b3b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/MapView/en.lproj/ViewController.xib0000000000000000^876"CompileXIB MapView/en.lproj/ViewController.xib    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/en.lproj/ViewController.nib /Users/newsuzukihiromasa/Desktop/MapView/MapView/en.lproj/ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"F57B7892-1044-4534-9DE5-FFFBC4899ABD-
+
+CCompileXIB /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/en.lproj/ViewController.xib
+r0
 
 CCopyPNGFile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default-568h@2x.png MapView/Default-568h@2x.png
 s397648238.903755
@@ -297,6 +513,15 @@ x/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Deb
 xMapView/Default@2x.png
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default@2x.png MapView/Default@2x.png6a6ce76ea1b3b741^f580116fa1b3b741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/MapView/Default@2x.png0000000000000000^652"CopyPNGFile "DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default@2x.png" "MapView/Default@2x.png"    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/MapView/MapView/Default@2x.png" "/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default@2x.png"36"E7397859-29EB-44DF-A1A4-B6D3EB8B7D69-
 
+CCopyPNGFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default-568h@2x.png MapView/Default-568h@2x.png
+r0
+
+CCopyPNGFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default.png MapView/Default.png
+r0
+
+CCopyPNGFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Default@2x.png MapView/Default@2x.png
+r0
+
 CCopyStringsFile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/en.lproj/InfoPlist.strings MapView/en.lproj/InfoPlist.strings
 s397648238.903354
 e397648238.907552
@@ -305,6 +530,9 @@ xCopyStringsFile
 x/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/en.lproj/InfoPlist.strings
 xMapView/en.lproj/InfoPlist.strings
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy MapView/en.lproj/InfoPlist.stringsb16be76ea1b3b741^1d56e86ea1b3b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/MapView/en.lproj/InfoPlist.strings0000000000000000^616"CopyStringsFile DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/en.lproj/InfoPlist.strings MapView/en.lproj/InfoPlist.strings    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/en.lproj -- MapView/en.lproj/InfoPlist.strings36"60FBE975-0824-45AF-97D3-9630FE481CE7-
+
+CCopyStringsFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/en.lproj/InfoPlist.strings MapView/en.lproj/InfoPlist.strings
+r0
 
 CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/ResourceRules.plist
 s397648238.307327
@@ -324,6 +552,15 @@ x/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Deb
 x/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generate /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYMa5f6de6ea1b3b741^f224e56ea1b3b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM000000000080d041^712"GenerateDSYMFile DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView -o /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM36"F7F57E98-7A4D-4DD0-B481-3DD43A4DB43C-
 
+CGenerateDSYMFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView
+s397649533.941060
+e397649533.967241
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM
+x/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Generate /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM8200f17da6b3b741^739cf77da6b3b741^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM/0000000000000000^766"GenerateDSYMFile DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView    cd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView -o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app.dSYM36"F9B77BB8-1B5C-4841-8828-E8E8C9273A82-
+
 CLd /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView normal armv7
 s397648238.818670
 e397648238.863561
@@ -334,6 +571,16 @@ xnormal
 xarmv7
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapViewdeb0d16ea1b3b741^4d14dd6ea1b3b741^---0#0#0#--1212"Ld DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView normal armv7    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos -F/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos -filelist /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/MapView.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework MapKit -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView36"D64B29F6-084C-481B-BDF1-F9AA2FD94C7E-
 
+CLd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView normal armv7
+s397649533.885785
+e397649533.934067
+r1
+xLd
+x/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Link /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView2fc1e57da6b3b741^ff1fef7da6b3b741^---0#0#0#--1302"Ld DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView normal armv7    cd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos -F/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos -filelist /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/Objects-normal/armv7/MapView.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework MapKit -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/MapView36"0BCA55CD-3333-4BE7-83D0-402F49296DA6-
+
 CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Info.plist MapView/MapView-Info.plist
 s397648238.307620
 e397648238.333969
@@ -342,6 +589,9 @@ xProcessInfoPlistFile
 x/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Info.plist
 xMapView/MapView-Info.plist
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process MapView/MapView-Info.plist7993536ea1b3b741^dca1556ea1b3b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/MapView/MapView-Info.plist0000000000000000^850"ProcessInfoPlistFile DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Info.plist MapView/MapView-Info.plist    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapView/MapView-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/ResourceRules.plist -o /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Info.plist36"363D1BCE-EF05-4303-A151-DB996CD9C46B-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/Info.plist MapView/MapView-Info.plist
+r0
 
 CProcessPCH /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-akgmxskdnlvlewgsvkivrgghexbd/MapView-Prefix.pch.pth MapView/MapView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s397648238.344818
@@ -359,6 +609,22 @@ lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precomp
 CProcessPCH /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Index/PrecompiledHeaders/MapView-Prefix-hegxlpedwqdnfnggmzjtylnnasly_ast/MapView-Prefix.pch.pth MapView/MapView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
 
+CProcessPCH /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch.pth MapView/MapView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397649533.318064
+e397649533.732116
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch.pth
+xMapView/MapView-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile MapView/MapView-Prefix.pch3e93517da6b3b741^6189bb7da6b3b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/MapView-Prefix.pch0000000000000000^3799"ProcessPCH DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch.pth MapView/MapView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-generated-files.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-own-target-headers.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView-project-headers.hmap -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/DerivedSources -F/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch.dia -c /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/MapView-Prefix.pch -o /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/PrecompiledHeaders/MapView-Prefix-bctifjltqnvkctcmaiutkgdknnlq/MapView-Prefix.pch.d36"6BDD742B-A897-4CA3-9912-DAACC13FECE6-
+
+CProcessPCH /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Index/PrecompiledHeaders/MapView-Prefix-gkejaotcizllrdghcdzoianawsnu_ast/MapView-Prefix.pch.pth MapView/MapView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
 CProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision
 s397648239.268676
 e397648239.271462
@@ -367,6 +633,9 @@ xProcessProductPackaging
 x/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
 x/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection233"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovisiondfdf446fa1b3b741^4a7d456fa1b3b741^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision0000000000000000^760"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" -o /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision36"ADAF7DED-4720-4A80-BCF9-19F8BAC59DA1-
+
+CProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app/embedded.mobileprovision
+r0
 
 CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent
 s397648239.296243
@@ -377,6 +646,9 @@ x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Develope
 x/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection241"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent7bf74b6fa1b3b741^07b44c6fa1b3b741^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent000000000080d041^802"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent36"D4AB8657-41FC-407B-827C-92D92F1A9E61-
 
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Intermediates/MapView.build/Debug-iphoneos/MapView.build/MapView.xcent
+r0
+
 CTouch /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
 s397648239.279606
 e397648239.288096
@@ -384,4 +656,12 @@ r1
 xTouch
 x/Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app09a9476fa1b3b741^ecc0496fa1b3b741^---0#0#0#--429"Touch DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app    cd /Users/newsuzukihiromasa/Desktop/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/MapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app36"40958A69-4127-4BE3-B276-D0797143227E-
+
+CTouch /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
+s397649534.001146
+e397649534.009892
+r1
+xTouch
+x/Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app6c5f007ea6b3b741^be88027ea6b3b741^---0#0#0#--465"Touch DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app    cd /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/DerivedData/MapView/Build/Products/Debug-iphoneos/MapView.app36"548C98E1-1892-413D-B15E-EEE3E1B2A83D-
 

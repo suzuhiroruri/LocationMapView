@@ -19,6 +19,7 @@
 		D23E5A7517B39E950086F419 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D23E5A7417B39E950086F419 /* ViewController.m */; };
 		D23E5A7817B39E950086F419 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D23E5A7617B39E950086F419 /* ViewController.xib */; };
 		D23E5A7F17B39EB40086F419 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D23E5A7E17B39EB40086F419 /* MapKit.framework */; };
+		D23E5A8217B3A2FB0086F419 /* NewClass.m in Sources */ = {isa = PBXBuildFile; fileRef = D23E5A8117B3A2FB0086F419 /* NewClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,8 @@
 		D23E5A7417B39E950086F419 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D23E5A7717B39E950086F419 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
 		D23E5A7E17B39EB40086F419 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		D23E5A8017B3A2FB0086F419 /* NewClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewClass.h; sourceTree = "<group>"; };
+		D23E5A8117B3A2FB0086F419 /* NewClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +96,8 @@
 				D23E5A7417B39E950086F419 /* ViewController.m */,
 				D23E5A7617B39E950086F419 /* ViewController.xib */,
 				D23E5A6217B39E950086F419 /* Supporting Files */,
+				D23E5A8017B3A2FB0086F419 /* NewClass.h */,
+				D23E5A8117B3A2FB0086F419 /* NewClass.m */,
 			);
 			path = MapView;
 			sourceTree = "<group>";
@@ -180,6 +185,7 @@
 				D23E5A6817B39E950086F419 /* main.m in Sources */,
 				D23E5A6C17B39E950086F419 /* AppDelegate.m in Sources */,
 				D23E5A7517B39E950086F419 /* ViewController.m in Sources */,
+				D23E5A8217B3A2FB0086F419 /* NewClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +308,7 @@
 				D23E5A7D17B39E950086F419 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

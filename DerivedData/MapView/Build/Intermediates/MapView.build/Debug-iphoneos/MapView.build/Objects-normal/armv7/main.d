@@ -1,2 +1,3 @@
-dependencies: /Users/newsuzukihiromasa/Desktop/MapView/MapView/main.m \
-  /Users/newsuzukihiromasa/Desktop/MapView/MapView/AppDelegate.h
+dependencies: \
+  /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/main.m \
+  /Users/newsuzukihiromasa/git/ios/GetCurrentLocationMapView/MapView/AppDelegate.h

@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "NewClass.h"
 
 @interface ViewController ()
 
@@ -38,8 +39,43 @@
 
 - (void)viewDidLoad
 {
+    
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [mapview setMapType:MKMapTypeStandard];
+    
+    //mapのズーム許可
+    [mapview setZoomEnabled:YES];
+    
+    //mapのスクロール許可
+    [mapview setScrollEnabled:YES];
+    
+    
+    MKCoordinateRegion region = {{0.0,0.0},{0.0,0.0}};
+    
+    //マップで表示する緯度の設定
+    region.center.latitude = 52.509078;
+    
+    //マップで表示する経度の設定
+    region.center.longitude = -1.884799;
+    
+    region.span.longitudeDelta = 0.01f;
+    region.span.latitudeDelta = 0.01f;
+    
+    [mapview setRegion:region animated:YES];
+    
+    
+    //NewClassのインスタンス
+    NewClass *ann=[[NewClass alloc] init];
+    
+    //アノテーションのタイトル指定
+    ann.title = @"AVFC";
+    
+    //アノテーションのサブタイトル指定
+    ann.subtitle = @"Aston Villa Football Club";
+    ann.coordinate = region.center;
+    [mapview addAnnotation:ann];
 }
 
 - (void)didReceiveMemoryWarning
